@@ -1,4 +1,4 @@
-# Task 4 Create Chart (Bar, pie and line)
+# Step 4 Create Chart (Bar, pie and line)
 
 ## Goal
 Create a visual representation of data to communicate insights clearly and also tell stories with data.
